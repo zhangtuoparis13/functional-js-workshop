@@ -15,4 +15,4 @@ function checkUsersValid(goodUsers) {
 
 
 
-module.exports = checkUsersValid
+module.exports = checkUsersValid;
